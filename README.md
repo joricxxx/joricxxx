@@ -1,4 +1,4 @@
-<img src="/gif/snake.yml" alt="Snake animation" />
+<img src="/assets/programming.gif" alt="programming.gif" />
 
 ###
 

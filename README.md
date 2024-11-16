@@ -72,9 +72,9 @@
 ###
 
 <div align="center">
-  
-  ![joricxxx's Streak](https://github-readme-streak-stats.herokuapp.com/?user=joricxxx&theme=dracula&hide_border=true)
-  ![joricxxx's Stats](https://github-readme-stats.vercel.app/api?username=joricxxx&theme=dracula&show_icons=true&hide_border=true&count_private=true)
+
   ![joricxxx's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joricxxx&theme=dracula&show_icons=true&hide_border=true&layout=compact)
+  ![joricxxx's Stats](https://github-readme-stats.vercel.app/api?username=joricxxx&theme=dracula&show_icons=true&hide_border=true&count_private=true)
+  ![joricxxx's Streak](https://github-readme-streak-stats.herokuapp.com/?user=joricxxx&theme=dracula&hide_border=true)
 
 ###
